@@ -52,7 +52,7 @@ Release date: 9JAN-2024
 
 <br>
 <p align="center">
-<img width="50%" src="https://i.ibb.co/2h39fng/Screenshot-2023-08-31-095735.png"/>
+<img width="50%" src="https://i.postimg.cc/RCcWDKBT/Picsart-24-01-09-11-02-09-148.jpg"/>
 </p>
 
 ## CONNECT WITH US :
